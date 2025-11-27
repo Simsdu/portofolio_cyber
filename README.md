@@ -24,8 +24,10 @@ Each write-up includes a description of the challenge, the methodology used, the
 
 ## Platform covered
 **TryHackMe**
+
 A wide range of cybersecurity labs covering web exploitation, privilege escalation, networking, malware analysis, and more. This sections includes write-ups for the room i have completed.
 
 **OverTheWire**
-Wargame designed to teach practical fundamentals: Linux basics, permissions, cryptography, binary exploitation, and other core skills.
+
+I's a Wargame designed to teach practical fundamentals: Linux basics, permissions, cryptography, binary exploitation, and other core skills.
 Currently progress includes the *Bandit* wargame, with additional wargames to come.
