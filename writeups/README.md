@@ -6,21 +6,6 @@ The purpose of this repository is to:
   - Track technical progress
   - Provide structured and clear explanations of each challenges
 
-## Repository Structure
-```
-├── TryHackMe/
-│   ├── writeup.md
-│   └── ...
-├── OverTheWire/
-│   ├── Bandit/
-│   │   ├── Lvl-1-10.md
-│   │   ├── Lvl-l0-20.md
-│   │   └── ...
-│   └── ...
-└── README.md
-```
-
-Each write-up includes a description of the challenge, the methodology used, the commands executed during the process and notes aimed at understanding rather than memorizing steps.
 
 ## Platform covered
 **TryHackMe**
